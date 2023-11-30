@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mdaniela307
-- 🌱 I’m currently studying and learning HTML & CSS, JavaScript, Python and UX/UI Design .
+- 👋 Hi, I’m Daniela!
+- 🌱 I’m currently working on my projects with HTML5 & CSS3, Bootstrap5, JavaScript and Python.
 
 
 <!---
