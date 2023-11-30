@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
-<h3 align="center">I'm passionate about merging Frontend technologies and my creativity to build amazing websites.</h3>
+<h3 align="center">I'm passionate about merging Frontend and creativity to build amazing websites.</h3>
 
 - 🔭 I’m currently working on a **Yarn store website**
 
 - 🌱 I’m currently learning **Bootstrap5, JavaScript, Python**
 
-- 💬 Ask me about **HTML5, CSS3**
+- 💬 Ask me about **HTML5, CCS3**
 
 - 📫 How to reach me **demm.artes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniela millán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniela millán" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dmillanmartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmillanmartinez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
