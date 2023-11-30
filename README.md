@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
-<h3 align="center">I'm passionate about merging Frontend and creativity to build amazing websites.</h3>
+<h3 align="center">I'm passionate about merging Frontend and my creativity to build amazing websites.</h3>
 
 - 🔭 I’m currently working on a **Yarn store website**
 
 - 🌱 I’m currently learning **Bootstrap5, JavaScript, Python**
 
-- 💬 Ask me about **HTML5, CCS3**
+- 💬 Ask me about **HTML5, CSS3**
 
 - 📫 How to reach me **demm.artes@gmail.com**
 
